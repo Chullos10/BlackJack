@@ -2,20 +2,24 @@ This is a personal project,
 
 The project is about a blackjack game with the faces of my friends for the Kings, Queens et Jacks
 
-List
-Yaw : Queen
-Erwan : Jack
-Nathaniel : King
+List:
+1. Spades 
+- Yaw : Queen
+- Erwan : Jack
+- Nathaniel : King
 
-Naveen : Jack
-Kishaok : King
-Harishant : Queen
+2. Hearts 
+- Naveen : Jack
+- Kishaok : King
+- Harishant : Queen
 
-Youssef : King
-Taha : Queen
-Aymen : Jack
+3. Diamonds 
+- Youssef : King
+- Taha : Queen
+- Aymen : Jack
 
-Karlos : King
-Anthony : Queen
-Pardeep : Jack
+4. Clubs 
+- Karlos : King
+- Anthony : Queen
+- Pardeep : Jack
 
