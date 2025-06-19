@@ -4,19 +4,19 @@ The project is about a blackjack game with the faces of my friends for the Kings
 
 List:
 
--Yaw : Queen
--Erwan : Jack
--Nathaniel : King
+  -Yaw : Queen
+  -Erwan : Jack
+  -Nathaniel : King
 
--Naveen : Jack
--Kishaok : King
--Harishant : Queen
+  -Naveen : Jack
+  -Kishaok : King
+  -Harishant : Queen
 
--Youssef : King
--Taha : Queen
--Aymen : Jack
+  -Youssef : King
+  -Taha : Queen
+  -Aymen : Jack
 
--Karlos : King
--Anthony : Queen
--Pardeep : Jack
+  -Karlos : King
+  -Anthony : Queen
+  -Pardeep : Jack
 
